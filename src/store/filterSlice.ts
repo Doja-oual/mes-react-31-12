@@ -20,3 +20,4 @@ export const filterSlice = createSlice({
 });
 
 export default filterSlice.reducer;
+
